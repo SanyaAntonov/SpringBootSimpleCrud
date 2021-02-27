@@ -1,2 +1,2 @@
 # SpringBootSimpleCrud
-Spring Data JPA, Lombok, Thymeleaf, PostgreSQL.
+Spring Data JPA, Lombok, Thymeleaf, PostgreSQL;
